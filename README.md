@@ -1,0 +1,1 @@
+# csgo-profitability-calculator
